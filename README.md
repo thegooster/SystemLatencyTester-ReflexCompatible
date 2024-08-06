@@ -1,6 +1,3 @@
-# SystemLatencyTester
-
-This is a Python application designed to measure and display the latency between mouse clicks and screen updates and was designed to be compatible with nvidias reflex overlay.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
