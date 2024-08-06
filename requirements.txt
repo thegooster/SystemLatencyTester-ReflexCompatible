@@ -1,0 +1,5 @@
+numpy
+mss
+PyQt5
+pynput
+psutil
